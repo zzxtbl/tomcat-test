@@ -5,9 +5,9 @@
 <h2>An Unordered HTML List</h2>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Aravind</li>
+  <li>aravind</li>
+  <li>aravind</li>
 </ul>  
 
 <h2>An Ordered HTML List</h2>
