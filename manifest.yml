@@ -2,5 +2,6 @@
 version: 1
 applications:
 - name: my-app
+  path: /webapp/target/webapp.war
   memory: 512M
   instances: 1
