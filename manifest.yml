@@ -2,5 +2,6 @@
 version: 1
 applications:
 - name: my-app-git
+  path: webapp\target\webapp.war
   memory: 1G
   instances: 1
