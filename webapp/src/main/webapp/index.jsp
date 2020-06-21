@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>EasyCloud Bamboo CICD by Aravind & Bamboo plan success</h2>
+<h2>This is the First Easycloud Bamboo Plan by Aravind </h2>
 
 <ul>
   <li>Aravind</li>
