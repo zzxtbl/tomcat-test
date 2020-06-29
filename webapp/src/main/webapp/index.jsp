@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>This is the First Easycloud Bamboo Plan by Aravind </h2>
+<h2>This is a Docker image task and docker build </h2>
 
 <ul>
   <li>Aravind</li>
@@ -13,9 +13,9 @@
 <h2>An Ordered HTML List</h2>
 
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>docker</li>
+  <li>ecr</li>
+  <li>aws</li>
 </ol> 
 
 </body>
