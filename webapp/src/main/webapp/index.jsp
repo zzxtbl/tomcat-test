@@ -5,7 +5,7 @@
 <h2>This is a Docker image task and docker build </h2>
 
 <ul>
-  <li>AWS</li>
+  <li>Aravind</li>
   <li>Easycloud</li>
   <li>Bamboo</li>
 </ul>  
