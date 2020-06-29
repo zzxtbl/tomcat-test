@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h2>This is a Docker image task and docker build </h2>
+<h2>This is a AWS ECR Image build task </h2>
 
 <ul>
-  <li>Aravind</li>
+  <li>AWS</li>
   <li>Easycloud</li>
   <li>Bamboo</li>
 </ul>  
