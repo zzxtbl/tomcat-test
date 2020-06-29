@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>This is a AWS ECR Image build task </h2>
+<h2>This is a Docker image task and docker build </h2>
 
 <ul>
   <li>AWS</li>
