@@ -2,12 +2,12 @@
 <html>
 <body>
 
-<h2>This is a Docker image task and docker build </h2>
+<h2>AWS ECR Image build test </h2>
 
 <ul>
-  <li>Aravind</li>
+  <li>aws</li>
   <li>Easycloud</li>
-  <li>Bamboo</li>
+  <li>ECR</li>
 </ul>  
 
 <h2>An Ordered HTML List</h2>
